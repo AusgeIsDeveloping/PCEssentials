@@ -8,8 +8,8 @@ Finally:
 You can download the latest version of SysPCSystem without turning off youre AntiVirus (On Edge)
 
 In Future:
-- Custom Website
-- Own GitHub Wiki Website
+- Custom Website (✗)
+- Own GitHub Wiki Website (https://github.com/AusgeIsDeveloping/PCEssentials/wiki) (🗸)
 ----------------------------
 
 Thanks,
